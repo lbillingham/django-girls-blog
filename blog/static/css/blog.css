@@ -3,6 +3,7 @@ h1 a {
 }
 body {
     padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
 }
 .page-header{
     background-color: #664aba;
@@ -18,7 +19,7 @@ body {
     margin-left: 40px;
 }
 h1, h2, h3, h4{
-    font-family: 'Lobster', cursive;
+    font-family: 'Dosis', sans-serif;
 }
 .date{
     color:  #43C6DB;
